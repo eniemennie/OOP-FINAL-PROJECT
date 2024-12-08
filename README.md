@@ -1,6 +1,6 @@
 # EduTrack: Student Progress System
 Object-Oriented Programming Final Project
-![work!](https://github.com/user-attachments/assets/cea4c364-78b7-48da-8d42-1a115947ef38)
+![work! (1)](https://github.com/user-attachments/assets/f8167a1f-5fd3-4724-b2e9-d6381bf122f7)
 # I. Project Overview
 The EduTrack: Student Progress System is a Java-based application designed to help students track their academic progress. It provides functionalities to create student profiles, add assignments and projects, set grades, and calculate overall performance. The system features a user-friendly graphical interface built using Java Swing, allowing for easy interaction with the program. The application emphasizes a modern aesthetic and provides feedback through a display area, enhancing the user experience.
 
