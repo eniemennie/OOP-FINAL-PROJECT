@@ -37,23 +37,23 @@ Java Development Kit (JDK): Ensure that you have the JDK installed on your machi
 Integrated Development Environment (IDE): While you can run the program from the command line, using an IDE like IntelliJ IDEA, Eclipse, or NetBeans can simplify the process. Make sure you have one of these installed.
 
 # Steps to Run the Program
-# - Download the Source Code:
+# Download the Source Code:
 Obtain the source code for the StudentProgressSystem. You can copy the code provided in the context or download it from the specified file path if available.
 Create a New Project:
 Open your IDE and create a new Java project.
 If using a text editor, create a new directory for the project.
-# - Add the Source Code:
+# Add the Source Code:
 Create a new Java file named StudentProgressSystem.java in your project directory.
 Copy and paste the entire code from the context into this file.
-# - Compile the Program:
+# Compile the Program:
 If using an IDE, it will typically handle compilation automatically.
 If using the command line, navigate to the directory containing the StudentProgressSystem.java file and run the following command: javac StudentProgressSystem.java
-# - Run the Program:
+# Run the Program:
 If using an IDE, simply run the program using the run button or menu option.
 If using the command line, execute the following command: java StudentProgressSystem
-# - Login Window:
+# Login Window:
 Upon running the program, a login window will appear. Enter a username and password (the program does not implement actual authentication logic, so any non-empty values will work).
 Click the "Login" button to proceed to the main application.
-# - Using the Application:
+# Using the Application:
 In the Student Progress System window, you can create a student profile, add assignments and projects, set grades, and view overall progress.
 Follow the on-screen prompts and fill in the required fields to interact with the application.
